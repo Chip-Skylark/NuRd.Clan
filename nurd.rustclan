@@ -1,0 +1,23 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(http://playrust.com/wp-content/uploads/2017/03/t3_5zg6ov.jpg) 100%;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+}
+h1 {
+  font-size: 50px
+}
+h2 {
+  font-size: 20px;
+}
+
+}
+</style>
+<h1>Welecome To The NuRd Clan</span></h1><br>
+<h2>Rust Clan</h2>
+<a href = scratchpad.io/nrd-recuiting>Vist Our Recuiting Page here</a>< 
